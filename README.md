@@ -1,47 +1,48 @@
-# Python Mini Projects
+# 🐍 Python Mini Projects
 
-This repo holds a bunch of small Python projects I built to level up my skills. Each project is focused on something specific—regex, file handling, input validation, 
-or basic user interaction. Nothing too fancy, but all solid practice.
-
-## What's Inside
-
-1. **Agent Decoder**
-- Pulls out emails and phone numbers from a block of messy text.
-- Redacts agent names and secret codes.
-- Regex practice, string formatting, and data extraction all in one.
-
-2. **Client Database**
-- Extracts valid contact info from client data.
-- Cleans up and normalizes phone numbers into a standard UK format.
-- Filters out dodgy or incomplete emails and numbers.
-
-3. **Grocery List Manager**
-- CLI tool for adding, updating, removing, and checking items in a shopping list.
-- Basic use of dictionaries, loops, error handling, and user input.
-
-4. **Recruitment List Cleaner**
-- Cleans a messy recruitment log.
-- Extracts and deduplicates phone numbers and email addresses.
-- Skips bad data and standardizes formatting.
-
-5. **Temperature Converter**
-- Converts between Celsius, Fahrenheit, and Kelvin.
-- Simple menu-driven app with reusable functions.
-- Uses PyInputPlus for better input handling.
-
-## Why I Made These
-
-I'm currently learning Python and wanted to get hands-on with real tasks instead of just following tutorials. These projects helped me build confidence in:
-- Regular expressions
-- Input validation
-- Data cleaning
-- Control flow
-- Structuring small programs
-
-## Next Up
-
-I'll be jumping into file handling, web scraping, and working with CSV/JSON data next. Eventually aiming to automate boring stuff and maybe even start building tools for others.
+This repo holds a bunch of small Python projects I built to level up my skills. Each one focuses on a specific concept like regex, file handling, user input validation, or basic user interaction. Nothing super fancy—just solid, practical practice that helped me build real understanding.
 
 ---
 
-Let me know if you want to add your learning goals, date started, or anything else.
+## 🚀 What’s Inside
+
+### 1. **Agent Decoder**
+- Extracts emails and phone numbers from messy text.
+- Redacts agent names and secret codes.
+- Regex practice, string formatting, and data extraction all in one.
+
+### 2. **Client Database**
+- Pulls valid contact info from a client data dump.
+- Cleans and normalizes UK phone numbers.
+- Filters out dodgy or malformed emails and numbers.
+
+### 3. **Grocery List Manager**
+- CLI tool to add, update, remove, and check items in a shopping list.
+- Shows how to use dictionaries, loops, and user input cleanly.
+- Basic structure for CRUD-style programs.
+
+### 4. **Recruitment List Cleaner**
+- Tidies up a messy recruitment log.
+- Extracts and deduplicates contact info.
+- Ignores bad data and formats everything consistently.
+
+### 5. **Temperature Converter**
+- Converts between Celsius, Fahrenheit, and Kelvin.
+- Menu-driven, uses reusable functions and PyInputPlus for clean input handling.
+
+### 6. **User Login Setup**
+- Builds a CLI-based login system.
+- Validates full name, email, username, and strong passwords.
+- Stores user credentials in separate `.txt` files using `Path`, `os`, and regex.
+- Great practice for input validation, file I/O, and small-scale data storage.
+
+### 7. **Simple Calculator**
+- CLI calculator that supports chained operations (+, -, x, /).
+- Handles user input errors with retries and graceful exits.
+- Combines control flow, functions, and modular arithmetic logic.
+
+### 8. **File Manager**
+- View folder contents, delete, copy, or move files/folders.
+- Organize Python files or clean up directories.
+- Uses `shutil`, `os`, `Path`, and `send2trash` for real-world file management.
+- Menu-driven and interactive—great mix of everything from automation to CLI work.
