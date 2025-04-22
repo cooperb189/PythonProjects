@@ -1,10 +1,10 @@
 # 🐍 Python Mini Projects
 
-This repo holds a bunch of small Python projects I built to level up my skills. Each one focuses on a specific concept like regex, file handling, user input validation, or basic user interaction. Nothing super fancy—just solid, practical practice that helped me build real understanding.
+This repo holds a bunch of small Python projects I built to level up my skills. Each one focuses on a specific concept like regex, file handling, user input validation, or basic user interaction. Nothing super fancy - just solid, practical practice that helped me build real understanding.
 
 ---
 
-## 🚀 What’s Inside
+## What’s Inside
 
 ### 1. **Agent Decoder**
 - Extracts emails and phone numbers from messy text.
